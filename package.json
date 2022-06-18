@@ -1,11 +1,12 @@
 {
-  "name": "projectrk002",
+  "name": "projectrk006",
   "version": "0.1.0",
   "private": true,
+  "dependencies": "how to create Ellipse ",
   "keywords": [
     "react-konva",
     "react",
-    "Rect"
+    "Ellipse"
   ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
